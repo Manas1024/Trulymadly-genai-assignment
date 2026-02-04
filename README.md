@@ -180,14 +180,6 @@ API keys are never hardcoded
 
 .env.example is provided for setup reference
 
-📌 Evaluation Readiness Checklist
-✔ Multi-agent design
-✔ Structured LLM outputs
-✔ ≥ 2 real APIs
-✔ End-to-end execution
-✔ One-command local run
-✔ No hardcoded responses
-
 👤 Author
 Manas Kumar Rout
 GenAI Intern Assignment — TrulyMadly
